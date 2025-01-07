@@ -33,19 +33,19 @@ I'm a full stack software engineer & data scientist with a love for coding, coll
 
 ## My GitHub Stats
 
-[![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianramy&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianramy&show_icons=true&theme=radical&hide_border=true)
 
 ## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianramy&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianramy&layout=compact&theme=radical&hide_border=true)
 
 ## GitHub Streaks
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ianramy&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=ianramy&theme=radical&hide_border=true)
 
 ## GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ianramy&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ianramy&theme=radical&margin-w=15&margin-h=15)
 
 ## My Projects
 
