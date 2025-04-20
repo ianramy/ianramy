@@ -26,7 +26,7 @@ I'm a full stack software engineer & data scientist with a love for coding, coll
 - 💬 Ask me about Javascript, Python, Data manipulation, API routing & Deployment.
 - 📫 How to reach me:
 
-  LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-mwagore-91b1ab32b)
+  LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-ramy-91b1ab32b)
 
     Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=profile&logoColor=black)](https://ianramy.github.io/)
 - ⚡ Fun fact: I love movies, reading, and playing video games.
