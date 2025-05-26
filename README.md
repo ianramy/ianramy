@@ -29,7 +29,7 @@ I'm a full stack software engineer & data scientist with a love for coding, coll
   LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-ramy)
 
     Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=profile&logoColor=black)](https://ianramy.github.io/)
-- ⚡ Fun fact: I love movies, reading, and playing video games.
+- ⚡ Fun fact: I love movies, reading, cubing, and playing video games.
 
 ## My GitHub Stats
 
