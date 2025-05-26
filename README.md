@@ -28,7 +28,7 @@ I'm a full stack software engineer & data scientist with a love for coding, coll
 
   LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-ramy)
 
-    Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=profile&logoColor=black)](https://ianramy.github.io/)
+    Portfolio: [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=profile&logoColor=black)](https://ianramy.co.ke/)
 - ⚡ Fun fact: I love movies, reading, coding, cubing, and playing video games.
 
 ## My GitHub Stats
