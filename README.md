@@ -4,7 +4,7 @@
 
 I'm a full stack software engineer & data scientist with a love for coding, collecting data and learning new technologies. I've been working on various projects involving web development, data science, and more.
 
-- 🔭 I’m currently working on [Code](https://github.com/ianramy/code).
+- 🔭 I’m currently working on [C Programming Tutorial](https://github.com/ianramy/C).
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Data Science & Full stack projects.
 - 🤔 I’m looking for help with Machine Learning.
